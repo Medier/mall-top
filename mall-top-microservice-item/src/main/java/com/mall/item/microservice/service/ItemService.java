@@ -27,7 +27,6 @@ public class ItemService {
         ITEM_MAP.put(7L, new Item(7L, "商品标题7", "商品图片7", "商品描述7", 700L));
         ITEM_MAP.put(8L, new Item(8L, "商品标题8", "商品图片8", "商品描述8", 800L));
         ITEM_MAP.put(9L, new Item(9L, "商品标题9", "商品图片9", "商品描述9", 900L));
-        ITEM_MAP.put(10L, new Item(10L, "商品标题10", "商品图片10", "商品描述10", 1000L));
 
 
     }

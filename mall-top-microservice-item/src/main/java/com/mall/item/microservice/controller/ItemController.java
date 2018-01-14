@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ItemController {
 
     @Autowired
-    private ItemService itemService;
+    private ItemService itemService;  //注入ItemService
 
     @GetMapping("/item/{id}")
     public Item queryItemById(@PathVariable("id") Long id){
