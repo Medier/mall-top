@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-top.iml" filepath="$PROJECT_DIR$/mall-top.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-top-microservice-eureka/mall-top-microservice-eureka.iml" filepath="$PROJECT_DIR$/mall-top-microservice-eureka/mall-top-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-top-microservice-item/mall-top-microservice-item.iml" filepath="$PROJECT_DIR$/mall-top-microservice-item/mall-top-microservice-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-top-microservice-order/mall-top-microservice-order.iml" filepath="$PROJECT_DIR$/mall-top-microservice-order/mall-top-microservice-order.iml" />
+    </modules>
+  </component>
+</project>
